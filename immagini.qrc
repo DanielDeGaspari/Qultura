@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/logo.png</file>
+    <file>images/apri.png</file>
+    <file>images/salva.png</file>
+    <file>images/salvaCome.png</file>
+    <file>images/chiudi.png</file>
+    <file>images/esci.png</file>
+	<file>images/aggiungi.png</file>
+	<file>images/rimuovi.png</file>
+	<file>images/rimuovi_tutte.png</file>
+	<file>images/showmore.png</file>
+	<file>images/hide.png</file>
+	<file>images/istogramma.png</file>
+	<file>images/linea.png</file>
+</qresource>
+</RCC>

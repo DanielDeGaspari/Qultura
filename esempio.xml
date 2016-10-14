@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Prodotto>
+    <LibroCartaceo>
+        <Titolo>Orgoglio e Pregiudizio</Titolo>
+        <Editore>Giunti</Editore>
+        <Pubblicazione>12.05.2011</Pubblicazione>
+        <Autore>Jane Austin</Autore>
+        <ISBN>9788809763173</ISBN>
+        <Edizione>4</Edizione>
+        <Genere>romanzo</Genere>
+        <NumeroPagine>432</NumeroPagine>
+        <CostoPerPagina>0.05</CostoPerPagina>
+    </LibroCartaceo>
+    <LibroCartaceo>
+        <Titolo>Appunti di Programmazione ad Oggetti</Titolo>
+        <Editore>Libreria Progetto</Editore>
+        <Pubblicazione>03.10.2013</Pubblicazione>
+        <Autore>Francesco Ranzato</Autore>
+        <ISBN>9788887331943</ISBN>
+        <Edizione>2</Edizione>
+        <Genere>Testo universitario</Genere>
+        <NumeroPagine>317</NumeroPagine>
+        <CostoPerPagina>0.06</CostoPerPagina>
+    </LibroCartaceo>
+    <Ebook>
+        <Titolo>Il Codice da Vinci</Titolo>
+        <Editore>Mondadori</Editore>
+        <Pubblicazione>30.09.2003</Pubblicazione>
+        <Autore>Brown Dan</Autore>
+        <ISBN>9788804643135</ISBN>
+        <Edizione>5</Edizione>
+        <Genere>Romanzo</Genere>
+        <NumeroPagine>523</NumeroPagine>
+        <CostoPerByte>0.00259</CostoPerByte>
+        <Dimensione>3000</Dimensione>
+    </Ebook>
+    <LibroCartaceo>
+        <Titolo>Semplice e' bello</Titolo>
+        <Editore>Libreria Progetto</Editore>
+        <Pubblicazione>12.09.2014</Pubblicazione>
+        <Autore>Gilberto File'</Autore>
+        <ISBN>9788884742483</ISBN>
+        <Edizione>3</Edizione>
+        <Genere>Testo universitario</Genere>
+        <NumeroPagine>190</NumeroPagine>
+        <CostoPerPagina>0.05</CostoPerPagina>
+    </LibroCartaceo>
+    <RivistaDomiciliata>
+        <Titolo>PcMagazine</Titolo>
+        <Editore>Ziff Davids</Editore>
+        <Pubblicazione>03.02.2016</Pubblicazione>
+        <Categoria>Informatica</Categoria>
+        <NumeroPagine>80</NumeroPagine>
+        <CostoPerPagina>0.035</CostoPerPagina>
+        <Maggiorazione>1</Maggiorazione>
+    </RivistaDomiciliata>
+    <RivistaCartacea>
+        <Titolo>La Gazzetta dello Sport</Titolo>
+        <Editore>RCS Media Group</Editore>
+        <Pubblicazione>08.02.2016</Pubblicazione>
+        <Categoria>Sport</Categoria>
+        <NumeroPagine>32</NumeroPagine>
+        <CostoPerPagina>0.046</CostoPerPagina>
+    </RivistaCartacea>
+    <RivistaCartacea>
+        <Titolo>Gazzetta dello Sport</Titolo>
+        <Editore>RCS Media Group</Editore>
+        <Pubblicazione>11.02.2016</Pubblicazione>
+        <Categoria>Sport</Categoria>
+        <NumeroPagine>32</NumeroPagine>
+        <CostoPerPagina>0.046</CostoPerPagina>
+    </RivistaCartacea>
+    <RivistaCartacea>
+        <Titolo>Gazzetta dello Sport</Titolo>
+        <Editore>RCS Media Group</Editore>
+        <Pubblicazione>19.01.2016</Pubblicazione>
+        <Categoria>Sport</Categoria>
+        <NumeroPagine>32</NumeroPagine>
+        <CostoPerPagina>0.046</CostoPerPagina>
+    </RivistaCartacea>
+    <RivistaDomiciliata>
+        <Titolo>Il Gazzettino</Titolo>
+        <Editore>Caltagirone Editore</Editore>
+        <Pubblicazione>09.03.2016</Pubblicazione>
+        <Categoria>Quotidiano</Categoria>
+        <NumeroPagine>40</NumeroPagine>
+        <CostoPerPagina>0.028</CostoPerPagina>
+        <Maggiorazione>1.5</Maggiorazione>
+    </RivistaDomiciliata>
+    <Ebook>
+        <Titolo>Reti di calcolatori</Titolo>
+        <Editore>Paerson</Editore>
+        <Pubblicazione>15.09.2011</Pubblicazione>
+        <Autore>Andrew S. Tanembaum</Autore>
+        <ISBN>9788871926407</ISBN>
+        <Edizione>5</Edizione>
+        <Genere>Testo universitario</Genere>
+        <NumeroPagine>800</NumeroPagine>
+        <CostoPerByte>0.00461</CostoPerByte>
+        <Dimensione>6500</Dimensione>
+    </Ebook>
+    <RivistaDomiciliata>
+        <Titolo>Il Gazzettino</Titolo>
+        <Editore>Catalgirone Editore</Editore>
+        <Pubblicazione>10.02.2016</Pubblicazione>
+        <Categoria>Quotidiano</Categoria>
+        <NumeroPagine>40</NumeroPagine>
+        <CostoPerPagina>0.028</CostoPerPagina>
+        <Maggiorazione>1.5</Maggiorazione>
+    </RivistaDomiciliata>
+    <RivistaDigitale>
+        <Titolo>Tv Sorrisi e Canzoni</Titolo>
+        <Editore>Mondadori</Editore>
+        <Pubblicazione>13.02.2016</Pubblicazione>
+        <Categoria>Televisivi</Categoria>
+        <CostoPerByte>0.00153</CostoPerByte>
+        <Dimensione>1000</Dimensione>
+    </RivistaDigitale>
+</Prodotto>
